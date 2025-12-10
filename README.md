@@ -2,6 +2,8 @@
 
 A GTA V mod that refreshes gameplay by adding custom mechanics and overriding NPC AI to make interactions more dynamic and fun.
 
+[![Watch Demo](https://img.youtube.com/vi/6DaNRKucf-Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=6DaNRKucf-Q)
+
 ## Features
 
 ### Custom AI Override
